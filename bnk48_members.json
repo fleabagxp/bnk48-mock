@@ -1,0 +1,1230 @@
+{
+	"members" : [
+		{
+			"images":"20181123091728bcfhk5.png",
+			"id":"52",
+			"position":"0",
+			"firstname": {
+		        "th": "ปุณยวีร์",
+		        "en": "Punyawee"
+		    },
+		    "lastname": {
+		    	"th": "จึงเจริญ",
+		        "en": "Jungcharoen"
+		    },
+		    "nickname": {
+		        "th": "ออม",
+		        "en": "Aom"
+		    },
+		    "birthDay":"1995-09-20",
+		    "height": 157,
+      		"province": "Chiang Mai",
+		    "hobbies": "ดูหนัง อ่านหนังสือ",
+		    "likes": "คิตตี้ บิงซู",
+		    "instagram": "aom.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123091846grv159.png",
+			"id":"51",
+			"position":"0",
+			"firstname": {
+		        "th": "จณิสตา",
+		        "en": "Janista"
+		    },
+		    "lastname": {
+		        "th": "ตันศิริ",
+		        "en": "Tansiri"
+		    },
+		    "nickname": {
+		        "th": "แบมบู",
+		        "en": "Bamboo"
+		    },
+			"birthDay":"2002-09-03",
+			"height": 167,
+      		"province": "Samut Prakan",
+      		"hobbies": "เล่นบาสเกตบอล วาดรูป ดูรายการตลก เต้นโคฟเวอร์ ทำขนม",
+      		"likes": "สุนัข สีเหลือง ขนมเฮลตี้ ต่างหู",
+      		"instagram": "bamboo.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123091902cimrw9.png",
+			"id":"50",
+			"position":"0",
+			"firstname": {
+		        "th": "นวพร",
+		        "en": "Nawaporn"
+		    },
+		    "lastname": {
+		        "th": "จันทร์สุข",
+		        "en": "Chansuk"
+		    },
+		    "nickname": {
+		        "th": "เค้ก",
+		        "en": "Cake"
+		    },
+			"birthDay":"1996-11-18",
+			"height": 162,
+      		"province": "Bangkok",
+      		"likes": "มินเนี่ยน กินไอติม บิงซู ดูหนังสืบสวน",
+			"hobbies": "ร้องเพลง ดูหนัง เล่นบาสเกตบอล",
+			"instagram": "cake.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093609prtvwy.png",
+			"id":"4",
+			"position":"1",
+			"firstname": {
+				"th": "เฌอปราง",
+				"en": "Cherprang"
+			},
+			"lastname": {
+				"th": "อารีย์กุล",
+				"en": "Areekul"
+			},
+			"nickname": {
+				"th": "เฌอปราง",
+				"en": "Cherprang"
+			},
+			"birthDay":"1996-05-02",
+			"height": 160,
+			"province": "Bangkok",
+			"likes": "-",
+			"hobbies": "กิน, นอน, เล่นเกม, ฟังเพลง, Cosplay",
+			"instagram": "cherprang.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123091918cdkos7.png",
+			"id":"49",
+			"position":"0",
+			"firstname": {
+				"th": "พิมพ์นิภา",
+				"en": "Pimnipa "
+			},
+			"lastname": {
+				"th": "ตั้งสกุล",
+				"en": "Tungsakul"
+			},
+			"nickname": {
+				"th": "Deenee",
+				"en": "Deenee"
+			},
+			"birthDay":"2001-11-28",
+			"height": 172,
+			"province": "Bangkok",
+			"likes": "ขนมเค้ก ออกเเบบบ้าน",
+			"hobbies": "วาดรูป ร้องเพลง",
+			"instagram": "deenee.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123091933efw249.png",
+			"id":"48",
+			"position":"0",
+			"firstname": {
+				"th": "สุมิตรา",
+				"en": "Sumitra"
+			},
+			"lastname": {
+				"th": "ดวงแก้ว",
+				"en": "Duangkaew"
+			},
+			"nickname": {
+				"th": "ฝ้าย",
+				"en": "Faii"
+			},
+			"birthDay":"1996-06-28",
+			"height": 165,
+			"province": "Lamphun",
+			"likes": "แมว นารุโตะ",
+			"hobbies": "ฟังเพลง ดูคลิปแมว",
+			"instagram": "faii.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123091949dw2456.png",
+			"id":"47",
+			"position":"0",
+			"firstname": {
+				"th": "ปวีณ์ธิดา",
+				"en": "Paweethida"
+			},
+			"lastname": {
+				"th": "สกุลพิพัฒน์",
+				"en": "Sakunpiphat"
+			},
+			"nickname": {
+				"th": "ฟีฟ่า",
+				"en": "Fifa"
+			},
+			"birthDay":"2001-11-06",
+			"height": 163,
+			"province": "Bangkok",
+			"likes": "โดราเอม่อน นิยาย สีฟ้า สีม่วง สีชมพู",
+			"hobbies": "อ่านหนังสือการ์ตูน ดูอนิเมะ ฟังเพลง เล่นเกม",
+			"instagram": "fifa.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092006adkv45.png",
+			"id":"46",
+			"position":"0",
+			"firstname": {
+				"th": "ณัฐทิชา",
+				"en": "Natticha"
+			},
+			"lastname": {
+				"th": "จันทรวารีเลขา",
+				"en": "Chantaravareelekha"
+			},
+			"nickname": {
+				"th": "ฟอนด์",
+				"en": "Fond"
+			},
+			"birthDay":"2002-12-03",
+			"height": 158,
+			"province": "Prachuap Khiri Khan",
+			"likes": "อาหารเผ็ด ๆ เครื่องเขียนโทนพาสเทล สุนัขพันธุ์คอร์กี้ หนังผี",
+			"hobbies": "ร้องเพลง เต้น พากย์การ์ตูน ดูหนัง",
+			"instagram": "fond.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092024eimpv1.png",
+			"id":"45",
+			"position":"0",
+			"firstname": {
+				"th": "ณัฐกุล",
+				"en": "Nuttakul"
+			},
+			"lastname": {
+				"th": "พิมพ์ธงชัยกุล",
+				"en": "Pimtongchaikul"
+			},
+			"nickname": {
+				"th": "จีจี้",
+				"en": "Gygee"
+			},
+			"birthDay":"2001-10-04",
+			"height": 162,
+			"province": "Bangkok",
+			"likes": "ตุ๊กตายูนิคอร์น แมวจี้",
+			"hobbies": "อ่านการ์ตูน ดูซีรี่ย์ แบดมินตัน ร้องเพลง",
+			"instagram": "gygee.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092844eikqx9.png",
+			"id":"25",
+			"position":"0",
+			"firstname": {
+				"th": "รินะ",
+				"en": "Rina"
+			},
+			"lastname": {
+				"th": "อิซึตะ",
+				"en": "Izuta"
+			},
+			"nickname": {
+				"th": "อิซูรินะ",
+				"en": "Izurina"
+			},
+			"birthDay":"1995-11-26",
+			"height": 158,
+			"province": "Saitama, Japan",
+			"likes": "Fashion",
+			"hobbies": "เดินห้าง",
+			"instagram": "rinaizuta.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092921bfjp46.png",
+			"id":"23",
+			"position":"0",
+			"firstname": {
+				"th": "ณปภัช",
+				"en": "Napaphat"
+			},
+			"lastname": {
+				"th": "วรพฤทธานนท์",
+				"en": "Worraphuttanon"
+			},
+			"nickname": {
+				"th": "จ๋า",
+				"en": "Jaa"
+			},
+			"birthDay":"2003-01-20",
+			"height": 160,
+			"province": "Bangkok",
+			"likes": "แมว, ผ้าเน่า, หมอนข้าง",
+			"hobbies": "ฟังเพลง, เล่นflute, ดูหนัง",
+			"instagram": "jaa.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092904lvyz35.png",
+			"id":"24",
+			"position":"0",
+			"firstname": {
+				"th": "กุลจิราณัฐ",
+				"en": "Kunjiranut"
+			},
+			"lastname": {
+				"th": "อินทรศิลป์",
+				"en": "Intarasin"
+			},
+			"nickname": {
+				"th": "เจน",
+				"en": "Jane"
+			},
+			"birthDay":"2000-03-23",
+			"height": 159,
+			"province": "Pathum Thani",
+			"likes": "บาร์บี้, หมา, แมว, แฮมสเตอร์, กระต่าย",
+			"hobbies": "นอน, กิน, ดูอนิเมะ",
+			"instagram": "jane.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093652ceisz1.png",
+			"id":"2",
+			"position":"0",
+			"firstname": {
+				"th": "เจนนิษฐ์",
+				"en": "Jennis"
+			},
+			"lastname": {
+				"th": "โอ่ประเสริฐ",
+				"en": "Oprasert"
+			},
+			"nickname": {
+				"th": "เจนนิส",
+				"en": "Jennis"
+			},
+			"birthDay":"2000-07-04",
+			"height": 161,
+			"province": "Petchaburi",
+			"likes": "Kpop101, สะสมโมเดลอาวุธ, เครื่องสำอาง",
+			"hobbies": "เล่นกีฬา, ดูหนัง, ฟังเพลง, ดูอนิเมะ",
+			"instagram": "jennis.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092940adjpx7.png",
+			"id":"22",
+			"position":"0",
+			"firstname": {
+				"th": "สุชญา",
+				"en": "Suchaya"
+			},
+			"lastname": {
+				"th": "แสนโคต",
+				"en": "Saenkhot"
+			},
+			"nickname": {
+				"th": "จิ๊บ",
+				"en": "Jib"
+			},
+			"birthDay":"2002-07-04",
+			"height": 159,
+			"province": "Lopburi",
+			"likes": "anime guchi",
+			"hobbies": "เล่นเกม, วาดรูป, ดูอนิเมะ, ฟังเพลง",
+			"instagram": "jib.bnk48office",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092103bgy126.png",
+			"id":"44",
+			"position":"0",
+			"firstname": {
+				"th": "เพลินพิชญา",
+				"en": "Plearnpichaya"
+			},
+			"lastname": {
+				"th": "โกมลารชุน",
+				"en": "Komalarajun"
+			},
+			"nickname": {
+				"th": "จูเน่",
+				"en": "Juné"
+			},
+			"birthDay":"2000-07-04",
+			"height": 171,
+			"province": "Bangkok",
+			"likes": "เฉาก๊วยนมสด คอร์กี้",
+			"hobbies": "วาดรูป ถ่ายรูป ฟังเพลง",
+			"instagram": "june.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092956ikpt69.png",
+			"id":"21",
+			"position":"0",
+			"firstname": {
+				"th": "ณัฐรุจา",
+				"en": "Natruja"
+			},
+			"lastname": {
+				"th": "ชุติวรรณโสภณ",
+				"en": "Chutiwansopon"
+			},
+			"nickname": {
+				"th": "แก้ว",
+				"en": "Kaew"
+			},
+			"birthDay":"1994-03-31",
+			"height": 156,
+			"province": "Chonburi",
+			"likes": "เครื่องสำอาง, น้ำหอม",
+			"hobbies": "เล่นเปียโน, นอน, เดินเล่น",
+			"instagram": "kaew.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093013lsw348.png",
+			"id":"20",
+			"position":"0",
+			"firstname": {
+				"th": "วรัทยา",
+				"en": "Warattaya"
+			},
+			"lastname": {
+				"th": "ดีสมเลิศ",
+				"en": "Deesomlert"
+			},
+			"nickname": {
+				"th": "ไข่มุก",
+				"en": "Kaimook"
+			},
+			"birthDay":"1997-08-27",
+			"height": 153,
+			"province": "Bangkok",
+			"likes": "แมว",
+			"hobbies": "เข้าครัว, เย็บผ้า",
+			"instagram": "kaimook.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093035fhtvz3.png",
+			"id":"19",
+			"position":"0",
+			"firstname": {
+				"th": "กรภัทร์",
+				"en": "Korapat"
+			},
+			"lastname": {
+				"th": "นิลประภา",
+				"en": "Nilprapa"
+			},
+			"nickname": {
+				"th": "เคท",
+				"en": "Kate"
+			},
+			"birthDay":"2001-06-09",
+			"height": 162,
+			"province": "Phayao",
+			"likes": "gudetama, ตุ๊กตา",
+			"hobbies": "ชิว, Watching Movie",
+			"instagram": "kate.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092143hloqsu.png",
+			"id":"43",
+			"position":"0",
+			"firstname": {
+				"th": "มณิภา",
+				"en": "Manipa"
+			},
+			"lastname": {
+				"th": "รู้ปัญญา",
+				"en": "Roopanya"
+			},
+			"nickname": {
+				"th": "ขมิ้น",
+				"en": "Khamin"
+			},
+			"birthDay":"1999-04-23",
+			"height": 158,
+			"province": "Khon Kaen",
+			"likes": "สุนัข",
+			"hobbies": "ฟังเพลง อ่านหนังสือ",
+			"instagram": "khamin.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092218glou89.png",
+			"id":"42",
+			"position":"0",
+			"firstname": {
+				"th": "จุฑามาศ",
+				"en": "Juthamas"
+			},
+			"lastname": {
+				"th": "คลทา",
+				"en": "Khonta"
+			},
+			"nickname": {
+				"th": "เข่ง",
+				"en": "Kheng"
+			},
+			"birthDay":"2000-03-26",
+			"height": 161,
+			"province": "Samut Prakan",
+			"likes": "เพลงฮิปฮอป เเรพเปอร์",
+			"hobbies": "ฟังเพลง ",
+			"instagram": "kheng.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093052ckr368.png",
+			"id":"18",
+			"position":"0",
+			"firstname": {
+				"th": "วฑูศิริ",
+				"en": "Vathusiri"
+			},
+			"lastname": {
+				"th": "ภูวปัญญาสิริ",
+				"en": "Phuwapunyasiri"
+			},
+			"nickname": {
+				"th": "ก่อน",
+				"en": "Korn"
+			},
+			"birthDay":"1999-01-21",
+			"height": 163,
+			"province": "Bangkok",
+			"likes": "Kitty",
+			"hobbies": "ดูหนังผี, อ่านหนังสือผี, Eating Snacks",
+			"instagram": "korn.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092240bglmt3.png",
+			"id":"41",
+			"position":"0",
+			"firstname": {
+				"th": "มะอิระ",
+				"en": "Maira"
+			},
+			"lastname": {
+				"th": "คูยามา",
+				"en": "Kuyama"
+			},
+			"nickname": {
+				"th": "มะอิระ",
+				"en": "Maira"
+			},
+			"birthDay":"1997-02-24",
+			"height": 153,
+			"province": "Bangkok",
+			"likes": "ของเล่น",
+			"hobbies": "ระบายสี",
+			"instagram": "maira.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092304eglsz2.png",
+			"id":"40",
+			"position":"0",
+			"firstname": {
+				"th": "นันท์นภัส",
+				"en": "Nannaphas"
+			},
+			"lastname": {
+				"th": "เลิศนามเชิดสกุล",
+				"en": "Loetnamchoetsakun"
+			},
+			"nickname": {
+				"th": "มิวนิค",
+				"en": "Mewnich"
+			},
+			"birthDay":"2002-03-11",
+			"height": 158,
+			"province": "Samut Prakan",
+			"likes": "มิกกี้เมาส์ ตุ๊กตาเอเลี่ยนสามตา เจ้าหญิง",
+			"hobbies": "ทำอาหาร ขนม ดูซีรีย์",
+			"instagram": "mewnich.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093116fnsw27.png",
+			"id":"16",
+			"position":"0",
+			"firstname": {
+				"th": "ปณิศา",
+				"en": "Panisa"
+			},
+			"lastname": {
+				"th": "ศรีละเลิง",
+				"en": "Srilaloeng"
+			},
+			"nickname": {
+				"th": "มายด์",
+				"en": "Mind"
+			},
+			"birthDay":"2001-09-06",
+			"height": 165,
+			"province": "Nakhon Ratchasima",
+			"likes": "กระต่าย",
+			"hobbies": "ฟังเพลงญี่ปุ่น(scandal)",
+			"instagram": "mind.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092324cdqs15.png",
+			"id":"39",
+			"position":"0",
+			"firstname": {
+				"th": "รชยา",
+				"en": "Rachaya"
+			},
+			"lastname": {
+				"th": "ทัพพ์คุณานนต์",
+				"en": "Tupkunanon"
+			},
+			"nickname": {
+				"th": "มินมิน",
+				"en": "Minmin"
+			},
+			"birthDay":"1997-03-20",
+			"height": 161,
+			"province": "Bangkok",
+			"likes": "ส้มตำปูปลาร้า",
+			"hobbies": "ดูหนัง ฟังเพลง เล่นเกม",
+			"instagram": "minmin.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093136abez56.png",
+			"id":"15",
+			"position":"0",
+			"firstname": {
+				"th": "มิโอริ",
+				"en": "Miori"
+			},
+			"lastname": {
+				"th": "โอคุโบะ",
+				"en": "Ohkubo"
+			},
+			"nickname": {
+				"th": "มิโอริ",
+				"en": "Miori"
+			},
+			"birthDay":"1998-09-30",
+			"height": 153,
+			"province": "Ibaraki, Japan",
+			"likes": "Sanrio, Disney,  Morning Musume",
+			"hobbies": "ร้องเพลง, Watching Movie",
+			"instagram": "miori.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093154bcsuv9.png",
+			"id":"14",
+			"position":"0",
+			"firstname": {
+				"th": "พิมรภัส",
+				"en": "Pimrapat"
+			},
+			"lastname": {
+				"th": "ผดุงวัฒนะโชค",
+				"en": "Phadungwatanachok"
+			},
+			"nickname": {
+				"th": "โมบาย",
+				"en": "Mobile"
+			},
+			"birthDay":"2002-07-09",
+			"height": 159,
+			"province": "Bangkok",
+			"likes": "มูมิน ,อนิเมะ ,แต่งหน้า",
+			"hobbies": "Cosplay",
+			"instagram": "mobile.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093213adej67.png",
+			"id":"13",
+			"position":"0",
+			"firstname": {
+				"th": "แพรวา",
+				"en": "Praewa"
+			},
+			"lastname": {
+				"th": "สุธรรมพงษ์",
+				"en": "Suthamphong"
+			},
+			"nickname": {
+				"th": "มิวสิค",
+				"en": "Music"
+			},
+			"birthDay":"2001-02-24",
+			"height": 158,
+			"province": "Bangkok",
+			"likes": "อะไรก็ได้นิ่มๆ",
+			"hobbies": "Cosplay, Game",
+			"instagram": "music.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092347cfw568.png",
+			"id":"38",
+			"position":"0",
+			"firstname": {
+				"th": "กวิสรา",
+				"en": "Khawisara"
+			},
+			"lastname": {
+				"th": "สิงห์ปลอด",
+				"en": "Singplod"
+			},
+			"nickname": {
+				"th": "มายยู",
+				"en": "Myyu"
+			},
+			"birthDay":"1999-10-28",
+			"height": 167,
+			"province": "Bangkok",
+			"likes": "กินไก่ทอด ของหวานทุกประเภท",
+			"hobbies": "แกะท่าเต้นจากยูทูป ดูคลิปเต้น ดูคลิปทำอหาร",
+			"instagram": "myyu.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093240ioxy14.png",
+			"id":"12",
+			"position":"0",
+			"firstname": {
+				"th": "มิลิน",
+				"en": "Milin"
+			},
+			"lastname": {
+				"th": "ดอกเทียน",
+				"en": "Dokthian"
+			},
+			"nickname": {
+				"th": "น้ำหนึ่ง",
+				"en": "Namneung"
+			},
+			"birthDay":"1996-11-11",
+			"height": 160,
+			"province": "Sing Buri",
+			"likes": "เสื้อผ้า, เครื่องสำอาง, หนังสือการ์ตูน, นิยาย",
+			"dislikes": "ตุ๊กแก จิ้งจก งู ผี",
+			"hobbies": "นอน, อ่านนิยาย, ฟังเพลง",
+			"instagram": "namneung.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093259mqst29.png",
+			"id":"11",
+			"position":"0",
+			"firstname": {
+				"th": "พิชญาภา",
+				"en": "Pichayapa"
+			},
+			"lastname": {
+				"th": "นาถา",
+				"en": "Natha"
+			},
+			"nickname": {
+				"th": "น้ำใส",
+				"en": "Namsai"
+			},
+			"birthDay":"1999-10-26",
+			"height": 170,
+			"province": "Chiang Mai",
+			"likes": "อัลปาก้า, อวกาศ, กีฬาที่เป็นลูกบอล",
+			"hobbies": "กิน, Reading book",
+			"instagram": "namsai.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092429htuy28.png",
+			"id":"37",
+			"position":"0",
+			"firstname": {
+				"th": "ดุสิตา",
+				"en": "Dusita"
+			},
+			"lastname": {
+				"th": "กิติสาระกุลชัย",
+				"en": "Kitisarakulchai"
+			},
+			"nickname": {
+				"th": "แนทเธอรีน",
+				"en": "Natherine"
+			},
+			"birthDay":"1999-11-11",
+			"height": 163,
+			"province": "Bangkok",
+			"likes": "เค้กส้ม บัวลอย คิตตี้",
+			"hobbies": "เล่นเกม ดูบอล",
+			"instagram": "natherine.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092449cfilyz.png",
+			"id":"36",
+			"position":"0",
+			"firstname": {
+				"th": "ชัญญาภัค",
+				"en": "Chanyapuk"
+			},
+			"lastname": {
+				"th": "นุ่มประสพ",
+				"en": "Numprasop"
+			},
+			"nickname": {
+				"th": "นิว",
+				"en": "New"
+			},
+			"birthDay":"2003-01-02",
+			"height": 157,
+			"province": "Bangkok",
+			"likes": "สุนัข",
+			"hobbies": "ฟังเพลง เล่นกีตาร์ เล่นเปียโน",
+			"instagram": "new.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092509cfimns.png",
+			"id":"35",
+			"position":"0",
+			"firstname": {
+				"th": "วรินท์รัตน์",
+				"en": "Warinrat"
+			},
+			"lastname": {
+				"th": "ยลประสงค์",
+				"en": "Yolprasong"
+			},
+			"nickname": {
+				"th": "นิกกี้",
+				"en": "Niky"
+			},
+			"birthDay":"2005-01-26",
+			"height": 159,
+			"province": "Chiang Mai",
+			"likes": "ต่างหู สีbabypink มะขามเทศ",
+			"hobbies": "ฟังเพลง ออกกำลังกาย",
+			"instagram": "niky.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092529ekruy5.png",
+			"id":"34",
+			"position":"0",
+			"firstname": {
+				"th": "ภัทรนรินทร์",
+				"en": "Phattharanarin"
+			},
+			"lastname": {
+				"th": "เหมือนฤทธิ์",
+				"en": "Mueanarit"
+			},
+			"nickname": {
+				"th": "ไนน์",
+				"en": "Nine"
+			},
+			"birthDay":"2000-11-11",
+			"height": 162,
+			"province": "Nakhon Sawan",
+			"likes": "หมีคุมะ",
+			"hobbies": "เล่นกีตาร์ อ่านหนังสือการ์ตูน",
+			"instagram": "nine.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093355cfpu38.png",
+			"id":"10",
+			"position":"0",
+			"firstname": {
+				"th": "มนัญญา",
+				"en": "Mananya"
+			},
+			"lastname": {
+				"th": "เกาะจู",
+				"en": "Kaoju"
+			},
+			"nickname": {
+				"th": "นิ้ง",
+				"en": "Nink"
+			},
+			"birthDay":"2000-02-03",
+			"height": 163,
+			"province": "Samut Sakorn",
+			"likes": "Suchi",
+			"hobbies": "วาดรูป, ดูอนิเมะ",
+			"instagram": "nink.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093415cdghm9.png",
+			"id":"9",
+			"position":"0",
+			"firstname": {
+				"th": "กานต์ธีรา",
+				"en": "Kanteera"
+			},
+			"lastname": {
+				"th": "วัชรทัศนกุล",
+				"en": "Wadcharathadsanakul"
+			},
+			"nickname": {
+				"th": "เนย",
+				"en": "Noey"
+			},
+			"birthDay":"1997-04-09",
+			"height": 158,
+			"province": "Samut Prakan",
+			"likes": "เครื่องสำอาง, นาฬิกาข้อมือ, กระเป๋า",
+			"dislikes": "สัตว์เลื้อยคลาน",
+			"hobbies": "นอน",
+			"instagram": "noey.bnk48office",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092548fqstv6.png",
+			"id":"33",
+			"position":"0",
+			"firstname": {
+				"th": "ณัชชา",
+				"en": "Natcha"
+			},
+			"lastname": {
+				"th": "กฤษฎาสิมะ",
+				"en": "Krisdhasima"
+			},
+			"nickname": {
+				"th": "อุ้ม",
+				"en": "Oom"
+			},
+			"birthDay":"2002-09-29",
+			"height": 163,
+			"province": "Bangkok",
+			"likes": "ไอศครีม",
+			"hobbies": "อ่านหนังสือ ทำสวน",
+			"instagram": "oom.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093629ghtuv5.png",
+			"id":"3",
+			"position":"0",
+			"firstname": {
+				"th": "พัศชนันท์",
+				"en": "Patchanan"
+			},
+			"lastname": {
+				"th": "เจียจิรโชติ",
+				"en": "Jiajirachote"
+			},
+			"nickname": {
+				"th": "อร",
+				"en": "Orn"
+			},
+			"birthDay":"1997-02-03",
+			"height": 164,
+			"province": "Bangkok",
+			"likes": "แมว, แมวน้ำ, แฟชั่น, เครื่องสำอาง",
+			"hobbies": "นอน, อ่านหนังสือ, เล่นกับแมว, Watching Anime",
+			"instagram": "orn.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092613gos567.png",
+			"id":"32",
+			"position":"0",
+			"firstname": {
+				"th": "พาขวัญ",
+				"en": "Pakwan"
+			},
+			"lastname": {
+				"th": "น้อยใจบุญ",
+				"en": "Noijaiboon"
+			},
+			"nickname": {
+				"th": "พาขวัญ",
+				"en": "Pakwan"
+			},
+			"birthDay":"2000-02-18",
+			"height": 160,
+			"province": "Sakon Nakhon",
+			"likes": "สัตว์น่ารักยกเว้นสัตว์เลื้อยคลานทุกประเภท ไอศครีม สีชมพู ถ่ายรูป ตุ๊กตา แต่งตัว ชอบสงสัย",
+			"hobbies": "ร้อง/ฟัง/แต่งเพลง เล่นดนตรี(ไวโอลีน ขิม อูคู กีต้าร์ คีย์บอร์ด ปล.เล่นไม่เก่งแต่เล่นหมดนะคะ555) เล่นกีฬา(บาส โยคะ มวย พาน้องหมาไปวิ่ง) จัดบ้าน เก็บของทำความสะอาด วาดรูป ทำสวนเพราะชอบปลูกผัก แต่ชอบเลี้ยงกระบองเพชรเป็นกรณียกเว้น",
+			"instagram": "pakwan.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092634cdefru.png",
+			"id":"31",
+			"position":"0",
+			"firstname": {
+				"th": "จิดาภา",
+				"en": "Jidarpha"
+			},
+			"lastname": {
+				"th": "แช่มช้อย",
+				"en": "Chamchooy"
+			},
+			"nickname": {
+				"th": "แพนด้า",
+				"en": "Panda"
+			},
+			"birthDay":"1997-10-10",
+			"height": 159,
+			"province": "Nakhon Pathom",
+			"likes": "ร้องเพลง ช็อกโกแลต หนูDumbo Rat",
+			"hobbies": "อ่านการ์ตูน ดูหนัง วาดรูป",
+			"instagram": "panda.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092657ghptv5.png",
+			"id":"30",
+			"position":"0",
+			"firstname": {
+				"th": "สิริการย์",
+				"en": "Sirikarn"
+			},
+			"lastname": {
+				"th": "ชินวัชร์สุวรรณ",
+				"en": "Shinnawatsuwan"
+			},
+			"nickname": {
+				"th": "ผักขม",
+				"en": "Phukkhom"
+			},
+			"birthDay":"1998-02-28",
+			"height": 165,
+			"province": "Samut Prakan",
+			"likes": "ตุ๊กตาญี่ปุ่น เรื่องผี เจ้าหญิง",
+			"hobbies": "วาดรูป ดูหนัง ร้องเพลง D.I.Y.",
+			"instagram": "phukkhom.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093439aimos2.png",
+			"id":"8",
+			"position":"0",
+			"firstname": {
+				"th": "รินรดา",
+				"en": "Rinrada"
+			},
+			"lastname": {
+				"th": "อินทร์ไธสง",
+				"en": "Inthaisong"
+			},
+			"nickname": {
+				"th": "เปี่ยม",
+				"en": "Piam"
+			},
+			"birthDay":"2003-06-04",
+			"height": 159,
+			"province": "Saraburi",
+			"likes": "corgy, gundam figure",
+			"hobbies": "นอน, กิน, เล่นเกม, Dance, Rap",
+			"instagram": "piam.bnk48office",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093714fgmz14.png",
+			"id":"1",
+			"position":"0",
+			"firstname": {
+				"th": "ปัญสิกรณ์",
+				"en": "Punsikorn"
+			},
+			"lastname": {
+				"th": "ติยะกร",
+				"en": "Tiyakorn"
+			},
+			"nickname": {
+				"th": "ปัญ",
+				"en": "Pun"
+			},
+			"birthDay":"2000-11-09",
+			"height": 166,
+			"province": "Bangkok",
+			"likes": "Fashion",
+			"hobbies": "ฟังเพลง, เล่นมือถือ, Taking Photo",
+			"instagram": "pun.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123093500kmsx57.png",
+			"id":"7",
+			"position":"0",
+			"firstname": {
+				"th": "จิรดาภา",
+				"en": "Jiradapa"
+			},
+			"lastname": {
+				"th": "อินทจักร",
+				"en": "Intajak"
+			},
+			"nickname": {
+				"th": "ปูเป้",
+				"en": "Pupe"
+			},
+			"birthDay":"1998-01-18",
+			"height": 160,
+			"province": "Chiang Rai",
+			"likes": "ผ้มห่ม, สีชมพู, โดเรม่อน",
+			"hobbies": "เล่นเกม, ดูอนิเมะ, ฟังเพลง. นอน",
+			"instagram": "pupe.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092722ehivw5.png",
+			"id":"29",
+			"position":"0",
+			"firstname": {
+				"th": "รตา",
+				"en": "Ratah"
+			},
+			"lastname": {
+				"th": "ชินกระจ่างกิจ",
+				"en": "Chinkrajangkit"
+			},
+			"nickname": {
+				"th": "รตา",
+				"en": "Ratah"
+			},
+			"birthDay":"2002-03-27",
+			"height": 156,
+			"province": "Chiang Mai",
+			"likes": "สีเหลือง เเมว อาหารที่กินได้",
+			"hobbies": "เเต่งนิยาย เต้นcover",
+			"instagram": "ratah.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093532acdrs6.png",
+			"id":"6",
+			"position":"0",
+			"firstname": {
+				"th": "สวิชญา",
+				"en": "Sawitchaya"
+			},
+			"lastname": {
+				"th": "ขจรรุ่งศิลป์",
+				"en": "Kajonrungsilp"
+			},
+			"nickname": {
+				"th": "ซัทจัง",
+				"en": "Satchan"
+			},
+			"birthDay":"2003-12-13",
+			"height": 150,
+			"province": "Bangkok",
+			"likes": "my melody",
+			"hobbies": "ฟังเพลง",
+			"instagram": "satchan.bnk48official",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092742bdjtu3.png",
+			"id":"28",
+			"position":"0",
+			"firstname": {
+				"th": "ตริษา",
+				"en": "Tarisa"
+			},
+			"lastname": {
+				"th": "ปรีชาตั้งกิจ",
+				"en": "Preechatangkit"
+			},
+			"nickname": {
+				"th": "สตางค์",
+				"en": "Stang"
+			},
+			"birthDay":"2003-10-22",
+			"height": 164,
+			"province": "Bangkok",
+			"likes": "ไข่เจียว",
+			"hobbies": "เล่นกีตาร์",
+			"instagram": "stang.bnk48office",
+			"generation":"2"
+		},
+		{
+			"images":"20181123093550ceoswy.png",
+			"id":"5",
+			"position":"0",
+			"firstname": {
+				"th": "อิสราภา",
+				"en": "Isarapa"
+			},
+			"lastname": {
+				"th": "ธวัชภักดี",
+				"en": "Thawatpakdee"
+			},
+			"nickname": {
+				"th": "ตาหวาน",
+				"en": "Tarwaan"
+			},
+			"birthDay":"1996-12-18",
+			"height": 156,
+			"province": "Nakhon Pathom",
+			"dislikes": "แมลง หนอน",
+			"hobbies": "ดูหนัง,  ฟังเพลง",
+			"instagram": "tarwaan.bnk48office",
+			"generation":"1"
+		},
+		{
+			"images":"20181123092802del457.png",
+			"id":"27",
+			"position":"0",
+			"firstname": {
+				"th": "กมนธิดา",
+				"en": "Kamonthida"
+			},
+			"lastname": {
+				"th": "โรจน์ทวีนิธิ",
+				"en": "Rotthawinithi"
+			},
+			"nickname": {
+				"th": "วิว",
+				"en": "View"
+			},
+			"birthDay":"2004-05-28",
+			"height": 165,
+			"province": "Nonthaburi",
+			"likes": "ก๋วยเตี๋ยวต้มยำ",
+			"hobbies": "อ่านการ์ตูน ฟังเพลง",
+			"instagram": "view.bnk48official",
+			"generation":"2"
+		},
+		{
+			"images":"20181123092819glnst8.png",
+			"id":"26",
+			"position":"0",
+			"firstname": {
+				"th": "วีรยา",
+				"en": "Weeraya"
+			},
+			"lastname": {
+				"th": "จาง",
+				"en": "Zhang"
+			},
+			"nickname": {
+				"th": "วี",
+				"en": "Wee"
+			},
+			"birthDay":"2001-10-23",
+			"height": 167,
+			"province": "Chonburi",
+			"likes": "สลัด ชอบกินผัก แต่ไม่ชอบขึ้นฉ่าย",
+			"hobbies": "ดูหนัง ว่ายน้ำ เล่นเกม",
+			"instagram": "wee.bnk48official",
+			"generation":"2"
+		}
+	]
+}
